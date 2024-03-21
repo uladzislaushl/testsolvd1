@@ -22,5 +22,6 @@ public class UserTest {
 
         int i = 0;
         int b = 2;
+        int a = 3;
     }
 }
