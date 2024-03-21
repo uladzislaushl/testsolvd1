@@ -21,5 +21,6 @@ public class UserTest {
                 .extract().body().jsonPath().getList("data", UserData.class);
 
         int i = 0;
+        int b = 2;
     }
 }
